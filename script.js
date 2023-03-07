@@ -24,11 +24,9 @@
 // let c = a.slice (1,2)
 // let d = a .slice (2,4)
 // console.log(b+d+c)                              верунть bsso
-
+//
 // let a = 'sunday'
-// // let b = a.slice (0,2)
-// // let c = a.slice (4,6)
-// console.log(a.substr( 3,1))              вернуть index d
+// console.log(a.slice (3,a.indexOf('a')))           вернуть index d
 
 // let a = 'hello'
 // let b = a.replace( 'l',"k")
